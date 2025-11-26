@@ -2,6 +2,22 @@
 Hybrid Neural PDE and Conditional GAN Framework for Sparse CO₂ Plume Prediction
 
 
+
+## 📦 Pre-trained Models
+
+Trained model files (310 MB) are hosted on Zenodo:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17727438.svg)](https://doi.org/10.5281/zenodo.17727438)
+
+**[Download Models from Zenodo](https://doi.org/10.5281/zenodo.17727438)**
+
+Includes:
+- Generator model (256 MB, 64M parameters)
+- Discriminator model (53 MB, 4.4M parameters)
+- Training history JSON
+
+See `models/README.md` for usage instructions.
+
 ## Dataset
 
 This work uses the **Sleipner 2019 Benchmark Model** from Equinor/CO2DataShare:
