@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Hybrid Neural PDE and Conditional GAN Framework for Sparse CO2 Plume Prediction"
+message: "If you use this software, please cite it using these metadata."
+type: software
+authors:
+  - family-names: "Padder"
+    given-names: "Athar"
+    affiliation: "Aligarh Muslim University"
+date-released: 2025-11-27
+version: 1.0.0
+repository-code: "https://github.com/eonwe141/Hybrid-NPDE-CCGAN-CO2-Storage"
+license: "MIT"
+keywords:
+  - "uncertainty quantification"
+  - "generative adversarial networks"
+  - "geological carbon storage"
+  - "digital twin"
+  - "sparse data"
