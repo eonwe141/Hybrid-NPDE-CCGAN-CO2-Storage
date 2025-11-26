@@ -1,15 +1,12 @@
 # Data
 
-## Sleipner Reference Model
+## Sleipner 2019 Benchmark Model
 
-### Overview
-The Sleipner Reference Model represents the Utsira Formation in the North Sea.
+**Dataset Source:**
+- Title: Sleipner 2019 Benchmark Model
+- DOI: 10.11582/2020.00004
+- URL: https://co2datashare.org/dataset/sleipner-2019-benchmark-model
+- Provider: Equinor / CO2DataShare
+- License: SLEIPNER CO2 REFERENCE DATASET LICENSE
 
-**Specifications:**
-- Total cells: 1,986,176
-- Permeability (PERMX): 0-2,000 mD
-- Porosity (PORO): 0.34-0.36
-- Time-lapse layers: 9 (L1-L9)
-
-### Access
-Download from MRST: https://www.sintef.no/projectweb/mrst/
+**Download:** Visit https://co2datashare.org/dataset/sleipner-2019-benchmark-model
