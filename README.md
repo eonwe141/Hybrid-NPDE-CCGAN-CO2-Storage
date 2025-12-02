@@ -3,7 +3,7 @@ Hybrid Neural PDE and Conditional GAN Framework for Sparse CO₂ Plume Predictio
 
 
 
-## 📦 Pre-trained Models
+## 📦 Trained Models
 
 Trained model files (310 MB) are hosted on Zenodo:
 
